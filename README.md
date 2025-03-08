@@ -22,8 +22,8 @@ This program allows for conducting a presale of SPL Token-2022 tokens on the Sol
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/solana-token2022-presale.git
-cd solana-token2022-presale
+git clone https://github.com/FunwayHQ/DrumpfPresale.git
+cd DrumpfPresale
 ```
 
 2. Install dependencies:
