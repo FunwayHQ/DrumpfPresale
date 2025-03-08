@@ -26,11 +26,7 @@ git clone https://github.com/FunwayHQ/DrumpfPresale.git
 cd DrumpfPresale
 ```
 
-2. Install dependencies:
-
-```bash
-npm install
-```
+2. Create anchor project, place the files, install deps.
 
 3. Update your Anchor.toml and ensure the program ID is set correctly:
 
