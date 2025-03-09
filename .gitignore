@@ -1,0 +1,25 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+target/
+dist/
+build/
+
+# Ignore Solana Anchor specific files
+.anchor/
+.migrations/
+.cache/
+programs/**/target/
+programs/**/node_modules/
+programs/**/dist/
+programs/**/build/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
